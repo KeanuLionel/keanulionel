@@ -1,6 +1,8 @@
 ## Hi, Nice To Meet You!👋
 ### I'm Keanu from Indonesia, i do some Web Developing. i really enjoy learning some programming language and its frameworks🧑‍💻. sometimes i like to play some music too like guitar 🎸
 
+![Web Developer](https://github.com/KeanuLionel/keanulionel/blob/main/Dashboard.png)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/keanulionel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/keanulionel1) 
 
