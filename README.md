@@ -11,6 +11,7 @@
 - 📫 How to reach me **keanuolimen0104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KeanuLionel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/keanulionel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/keanulionel1)  
 <p align="left">
 </p>
 
@@ -19,10 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keanulionel&show_icons=true&locale=en&layout=compact" alt="keanulionel" /></p>
 
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KeanuLionel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/keanulionel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/keanulionel1)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KeanuLionel&show_icons=true)  
 
 
