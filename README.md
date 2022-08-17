@@ -1,3 +1,3 @@
-### Hi i'm keanu, i'm from indonesia. 👋
+### Hi Nice to meet you! Keanu Lionel 👋
 
 
