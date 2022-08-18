@@ -1,0 +1,4 @@
+Plan for Future Projects!
+
+- HTML / CSS / JS
+- Tailwind CSS / Laravel
