@@ -1,0 +1,7 @@
+Plan for Future Projects!
+
+- HTML / CSS / JS
+  * Website :
+      - Games
+- Tailwind CSS / Laravel
+
