@@ -1,1 +1,6 @@
-
+MY RESOLUTION
+ - can be more good at CSS/Tailwind/Bootstrap 
+ - can be good at Javascript
+ - can be better at PHP/Laravel
+ - often to make projects and upload them to github
+ - can make friends and collaborate with other web developers
