@@ -1,5 +1,6 @@
 Plan for Future Projects!
-
+- Learn Some JS Frameworks
+       * Angular
 - HTML / CSS / JS
   * Website :
       - Games
