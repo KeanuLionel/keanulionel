@@ -1,8 +1,11 @@
 Plan for Future Projects!
-- Learn Some JS Frameworks
-       * Angular
+- Learning Some JS Frameworks 
+      * Vue
+      * React
+
+
 - HTML / CSS / JS
   * Website :
       - Games
 - Tailwind CSS / Laravel
-
+- Interview
