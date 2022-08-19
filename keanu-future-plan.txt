@@ -1,9 +1,9 @@
 Plan for Future Projects!
-
 - Learning Some JS Frameworks 
       * Vue
       * React
-      * Angular
+
+
 - HTML / CSS / JS
   * Website :
       - Games
