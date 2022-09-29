@@ -1,5 +1,5 @@
 ## Hi, Nice To Meet You!👋
-### I'm Keanu from Indonesia, i do some Web Developing. I really enjoy learning some Programming Language and its Frameworks🧑‍💻. sometimes i like to play some music too, like Guitar 🎸!
+### I'm Keanu or you can call me Zyiosk, I'm from Indonesia, i do some Web Developing. I really enjoy learning some Programming Language and its Frameworks🧑‍💻. sometimes i like to play some music too, like Guitar 🎸!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/keanulionel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/keanulionel1) 
