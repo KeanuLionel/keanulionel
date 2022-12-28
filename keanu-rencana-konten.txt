@@ -1,6 +1,6 @@
 RENCANA KONTEN KEANU 
-- video mengenai javascript
+- video mengenai HTML/CSS
 - video mengenai tailwindcss
 - interview
-- lomba
-- olimpiade 
+- lomba-lomba design dan coding
+- olimpiade sains nasional INFORMATIKA
