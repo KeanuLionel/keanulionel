@@ -4,3 +4,4 @@ RENCANA KONTEN KEANU
 - interview
 - lomba-lomba design dan coding
 - olimpiade sains nasional INFORMATIKA
+- algorithm dan struktur data
