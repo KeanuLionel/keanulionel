@@ -1,7 +1,0 @@
-RENCANA KONTEN KEANU 
-- video mengenai HTML/CSS
-- video mengenai tailwindcss
-- interview
-- lomba-lomba design dan coding
-- olimpiade sains nasional INFORMATIKA
-- algorithm dan struktur data
